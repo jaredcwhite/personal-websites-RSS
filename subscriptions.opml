@@ -320,6 +320,7 @@
 			<outline type="rss" htmlUrl="https://fredrocha.net/" xmlUrl="https://fredrocha.net/feed" text="Fred Rocha" title="Fred Rocha" />
 			<outline text="Ferdinand Vogler" xmlUrl="https://ferdinandvogler.com/rss/feed.xml" type="rss" title="Ferdinand Vogler" htmlUrl="https://ferdinandvogler.com" />
 			<outline type="rss" htmlUrl="https://cdevroe.com/" xmlUrl="https://cdevroe.com/feed" text="Colin Devroe" title="Colin Devroe" />
+			<outline type="rss" htmlUrl="https://jaredwhite.com/" xmlUrl="https://jaredwhite.com/feed.xml" text="Jared White" title="Jared White" />
 		</outline>
 	</body>
 </opml>
